@@ -72,14 +72,14 @@ body{
 .close-icon::after{
     transform: rotate(-30deg);
 }
-.hide-details.info{
+.hide-details .info{
     transform: translateX(50px);
     opacity: 0;
 }
-.hide-details.close-icon{
+.hide-details .close-icon{
     transform: translateX(-410px);
 }
-.hide-details.img{
+.hide-details img{
     transform: translateX(410px);
     box-shadow: 000 rgba(0,0,0,0.3);
 }
