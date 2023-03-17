@@ -15,7 +15,6 @@ it also has a close and an open icon which i used for hiding and disclosing deta
 ![Screenshot from 2023-03-17 12-47-34](https://user-images.githubusercontent.com/125015289/225872276-2583ae90-881f-4370-a786-f78ccb8ea22d.png)
 
 
-![Screenshot from 2023-03-17 12-47-34](https://user-images.githubusercontent.com/125015289/225871670-ef83a3e6-60b9-41f5-88bf-761122c0add7.png)
 
 # SETUP/INSTALLATION REQUIREMENTS
 
